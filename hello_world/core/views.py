@@ -1,3 +1,4 @@
+#nos va a proporcionar las vistas de django
 from django.shortcuts import render
 
 def index(request):
